@@ -1,0 +1,27 @@
+{
+  "name": "iodb-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susannahgurgel/iodb-api.git"
+  },
+  "author": "Susannah Gurgel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/susannahgurgel/iodb-api/issues"
+  },
+  "homepage": "https://github.com/susannahgurgel/iodb-api#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
